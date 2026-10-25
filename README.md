@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ### `About me`
 
 ```text
