@@ -15,7 +15,7 @@ Interests  : Software Engineering, Web Development, UI/UX Design
 ### `Tools`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,mysql" alt="Technology icons" />
 </p>
 
 ### `Programming Language`
